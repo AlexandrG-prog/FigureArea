@@ -1,0 +1,6 @@
+D:\Tests\FigureArea\FigureArea\bin\Debug\FigureArea.dll
+D:\Tests\FigureArea\FigureArea\bin\Debug\FigureArea.pdb
+D:\Tests\FigureArea\FigureArea\obj\Debug\FigureArea.csproj.CoreCompileInputs.cache
+D:\Tests\FigureArea\FigureArea\obj\Debug\FigureArea.dll
+D:\Tests\FigureArea\FigureArea\obj\Debug\FigureArea.pdb
+D:\Tests\FigureArea\FigureArea\obj\Debug\FigureArea.csproj.AssemblyReference.cache

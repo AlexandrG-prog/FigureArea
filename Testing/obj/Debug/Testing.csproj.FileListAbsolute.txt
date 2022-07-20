@@ -1,0 +1,10 @@
+D:\Tests\FigureArea\Testing\bin\Debug\Testing.exe.config
+D:\Tests\FigureArea\Testing\bin\Debug\Testing.exe
+D:\Tests\FigureArea\Testing\bin\Debug\Testing.pdb
+D:\Tests\FigureArea\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+D:\Tests\FigureArea\Testing\obj\Debug\Testing.exe
+D:\Tests\FigureArea\Testing\obj\Debug\Testing.pdb
+D:\Tests\FigureArea\Testing\bin\Debug\FigureArea.dll
+D:\Tests\FigureArea\Testing\bin\Debug\FigureArea.pdb
+D:\Tests\FigureArea\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+D:\Tests\FigureArea\Testing\obj\Debug\Testing.csproj.CopyComplete

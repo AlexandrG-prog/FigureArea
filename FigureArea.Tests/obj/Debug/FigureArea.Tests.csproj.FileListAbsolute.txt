@@ -1,0 +1,16 @@
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\FigureArea.Tests.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\FigureArea.Tests.pdb
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\FigureArea.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\FigureArea.pdb
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Tests\FigureArea\FigureArea.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Tests\FigureArea\FigureArea.Tests\obj\Debug\FigureArea.Tests.csproj.AssemblyReference.cache
+D:\Tests\FigureArea\FigureArea.Tests\obj\Debug\FigureArea.Tests.csproj.CoreCompileInputs.cache
+D:\Tests\FigureArea\FigureArea.Tests\obj\Debug\FigureArea.Tests.csproj.CopyComplete
+D:\Tests\FigureArea\FigureArea.Tests\obj\Debug\FigureArea.Tests.dll
+D:\Tests\FigureArea\FigureArea.Tests\obj\Debug\FigureArea.Tests.pdb
